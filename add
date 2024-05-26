@@ -2,4 +2,4 @@ int a=5
 a=a++
 print("a")
 print()
-add 6666666
+add 655
